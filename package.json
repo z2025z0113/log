@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/z2025z0113/log/issues"
   },
-  "homepage": "https://github.com/z2025z0113/log#readme"
+  "homepage": "https://github.com/z2025z0113/log#readme",
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  }
 }
