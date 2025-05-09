@@ -2,7 +2,7 @@ console.log('node js server.2025-05-09 13:30:25');
 // use database for this project ,sqlite3.
 // format [date time .thing .money .category]
 //every day over ,analysis today 's data. to change tomorrow behaviour.
-
+// 2025-05-09 17:07:23 goal:pay off my debt. save money to buy a house. 
 const sqlite3 = require('sqlite3').verbose();
 const db = new sqlite3.Database('log.db', (err) => {
     if (err) {
