@@ -1,0 +1,19 @@
+{
+  "name": "log",
+  "version": "1.0.0",
+  "description": "log from 20250509",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z2025z0113/log.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z2025z0113/log/issues"
+  },
+  "homepage": "https://github.com/z2025z0113/log#readme"
+}
